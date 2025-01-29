@@ -4,6 +4,7 @@ Features:-
 - Generates a random hex color code every 2 seconds.
 - Changes the background color of the webpage dynamically.
 - Provides buttons to start and stop the color-changing effect.
+  
 Technologies Used :-
 -HTML
 -CSS
